@@ -1,9 +1,9 @@
 var btnSpeak = document.querySelector("#btn-speak");
 var txtInput = document.querySelector("#txtarea-en");
+var txtOutput = document.querySelector("#output");
 
 function clickHandler() {
-        console.log("clicked");
-        console.log("input", txtInput.value);
+        txtOutput.innerText="xasdihoid baaannna uggaag saaa"+ txtInput.value;
 }
 
 btnSpeak.addEventListener("click",clickHandler);
