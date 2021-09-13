@@ -1,6 +1,7 @@
-//input
-var message=prompt("give me your user name");
-//processing
-var welcomeMessage="This is your name!" + message;
-//output
-alert(welcomeMessage);
+var btnSpeak = document.querySelector("#btn-speak");
+var txtInput = document.querySelector("#txtarea-en");
+
+btnSpeak.addEventListener("click",function clickEventHandler(){
+    console.log("clicked");
+    console.log("input",txtInput.value);
+})
