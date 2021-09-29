@@ -1,0 +1,21 @@
+#txtarea-en{
+    width: 30%;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 25px;
+    display: block;
+}
+
+#output{
+    border: 1px solid black;
+    border-radius: 25px;
+    padding: 35px;
+    margin-top: 20px;
+    width: 28%;
+
+}
+
+#btn-speak{
+    padding: 2px 10px;
+    margin-left: 4px;
+}
