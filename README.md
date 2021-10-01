@@ -1,2 +1,2 @@
-# neogcamp-banana-speak
- This is my first javascript project. It's a "Minion" translator app where you give input in English and it gives output in "Banana" language.
+# Banana-Speak-Translator
+It's a "Minion" translator web app where you can give input in English and it gives output in "Banana" language.
